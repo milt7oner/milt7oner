@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Duvan Sanchez
+# 👋 Hi, I'm Duvan Muñoz
 
 I'm a **full-stack developer** and **tech educator** with a strong focus on **backend systems**, **IoT**, and **AI applications**. I build scalable and intelligent software — from real-time APIs and IoT dashboards to data-driven AI solutions and modern frontend interfaces.
 
